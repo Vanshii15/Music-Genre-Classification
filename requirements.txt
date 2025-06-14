@@ -1,6 +1,10 @@
-streamlit
-# TensorFlow 2.10+ is compatible with Python 3.7-3.11
-tensorflow>=2.10,<2.16
-librosa
+# Core
+streamlit>=1.25
 numpy
-python-3.11
+pandas
+
+# Audio + ML
+tensorflow-cpu>=2.10,<2.16
+librosa
+scikit-learn
+joblib
