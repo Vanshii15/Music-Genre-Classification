@@ -1,4 +1,6 @@
 streamlit
-tensorflow
+# TensorFlow 2.10+ is compatible with Python 3.7-3.11
+tensorflow>=2.10,<2.16
 librosa
 numpy
+python==3.11
