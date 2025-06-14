@@ -3,4 +3,3 @@ streamlit
 tensorflow>=2.10,<2.16
 librosa
 numpy
-python==3.11
