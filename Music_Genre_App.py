@@ -65,8 +65,8 @@ if(app_mode=="Home page"):
     unsafe_allow_html=True
 )
     
-    st.title(''' ## Welcome to the,\n
-    ## MUSIC CLASSIFICATION SYSTEM! 🎵❤️ ''')
+    st.title(''' ## Welcome to VibeClassifier,\n
+    ## A Music Classification System! 🎵❤️ ''')
 
     st.write("This app helps users to identify the genre of any song quickly and accurately. It’s useful for music lovers to discover similar tracks, organize playlists better, and enhance their listening experience. For musicians and DJs, it aids in music analysis, curation, and mixing. Streaming platforms and developers also use genre classification to recommend personalized content and improve user engagement through smarter algorithms. ")
     
